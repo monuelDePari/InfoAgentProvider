@@ -1,0 +1,4 @@
+# AI Agent Dependencies
+langgraph>=0.0.1
+ollama>=0.1.0
+duckduckgo-search>=3.8.0
